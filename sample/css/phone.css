@@ -8,6 +8,10 @@
     font-size: 1.7rem;
 }
 
+.main span{
+    display: none;
+}
+
 /* about */
 
 #pic img{
